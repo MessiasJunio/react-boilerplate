@@ -1,7 +1,7 @@
 import * as S from './styles'
 
 const Main = ({
-  title = 'Advanced React',
+  title = 'Stack',
   description = 'TypeScript, ReactJS, NextJS e Styled Components'
 }) => (
   <S.Wrapper>
@@ -13,7 +13,7 @@ const Main = ({
     <S.Description>{description}</S.Description>
     <S.Illustration
       src="/img/hero-illustration.svg"
-      alt="A developer in front of a screen with code."
+      alt="A robot behind a notebook."
     />
   </S.Wrapper>
 )
