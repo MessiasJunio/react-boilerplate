@@ -6,7 +6,7 @@
 ![ci](https://github.com/messiasjunio/react-boilerplate/workflows/ci/badge.svg)
 
 <p align="center">
-  <img alt="GitHub" src="https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/main/public/img/preview-boilerplate.svg">
+  <img alt="GitHub" src="https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/main/public/img/preview-boilerplate.png">
 </p>
 
 ## What is inside?
