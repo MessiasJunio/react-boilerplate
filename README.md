@@ -4,6 +4,11 @@
 </h1>
 
 ![ci](https://github.com/messiasjunio/react-boilerplate/workflows/ci/badge.svg)
+
+<p align="center">
+  <img alt="GitHub" src="https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/main/public/img/preview-boilerplate.svg">
+</p>
+
 ## What is inside?
 
 This project uses lot of stuff as:
