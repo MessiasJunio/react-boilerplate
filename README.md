@@ -1,12 +1,12 @@
-<h1 align="center" style="background-color: #2c3531">
-    <img alt="React Boilerplate" src="https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/main/public/img/logo-github.svg" />
+<h1 align="center">
+    <img alt="Image of an atom and React Boilerplate written beside." src="https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/main/public/img/logo-github.svg" />
     <br>
 </h1>
 
 ![ci](https://github.com/messiasjunio/react-boilerplate/workflows/ci/badge.svg)
 
 <p align="center">
-  <img alt="GitHub" src="https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/main/public/img/preview-boilerplate.svg">
+  <img alt="Image of a robot behind a notebook." src="https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/main/public/img/preview-boilerplate.png">
 </p>
 
 ## What is inside?
