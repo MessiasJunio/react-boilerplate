@@ -1,4 +1,4 @@
-<h1 align="center" style="background: #2c3531">
+<h1 align="center" style="background-color: #2c3531">
     <img alt="React Boilerplate" src="https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/main/public/img/logo-github.svg" />
     <br>
 </h1>
