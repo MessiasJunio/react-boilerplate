@@ -7,13 +7,13 @@ const Main = ({
   <S.Wrapper>
     <S.Logo
       src="/img/logo.svg"
-      alt="Image of an atom and Advanced React written beside."
+      alt="Image of an atom and React Boilerplate written beside."
     />
     <S.Title>{title}</S.Title>
     <S.Description>{description}</S.Description>
     <S.Illustration
       src="/img/hero-illustration.svg"
-      alt="A robot behind a notebook."
+      alt="Image of a robot behind a notebook."
     />
   </S.Wrapper>
 )
