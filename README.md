@@ -1,8 +1,9 @@
+<h1 align="center">
+    <img alt="React Boilerplate" src="https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/main/public/img/logo-github.svg" />
+    <br>
+</h1>
 
-![React Avançado](https://raw.githubusercontent.com/MessiasJunio/react-boilerplate/tree/main/public/img/logo-gh.svg)
-
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
+![ci](https://github.com/messiasjunio/react-boilerplate/workflows/ci/badge.svg)
 ## What is inside?
 
 This project uses lot of stuff as:
@@ -23,7 +24,9 @@ First, run the development server:
 
 ```bash
 npm run dev
+
 # or
+
 yarn dev
 ```
 
